@@ -1,0 +1,27 @@
+{
+  "api": {
+    "daily_puzzle_url": "https://lichess.org/api/puzzle/daily",
+    "timeout_seconds": 20
+  },
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "codec": "libx264",
+    "pixel_format": "yuv420p"
+  },
+  "render": {
+    "board_size": 740,
+    "show_coordinates": true,
+    "intro_seconds": 2.0,
+    "think_seconds": 3.0,
+    "solution_seconds": 2.0,
+    "outro_seconds": 2.0
+  },
+  "ffmpeg": {
+    "binary": "ffmpeg"
+  },
+  "artifacts": {
+    "root": "artifacts"
+  }
+}

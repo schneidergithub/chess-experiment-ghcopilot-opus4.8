@@ -1,0 +1,23 @@
+{
+  "game": {
+    "id": "MwZcnjIz",
+    "perf": {"key": "classical", "name": "Classical"},
+    "rated": true,
+    "players": [
+      {"name": "antigua1956", "id": "antigua1956", "color": "white", "rating": 1747},
+      {"name": "Shalaza", "id": "shalaza", "color": "black", "rating": 1735}
+    ],
+    "pgn": "e4 e5 f4 Nf6 fxe5 Nxe4 Nf3 d5 exd6 Nxd6 Nc3 Bg4 Be2 Be7 O-O O-O Ne5 Bxe2 Qxe2 Bf6 d3 Re8 Bf4 Nd7 d4 c5 dxc5",
+    "clock": "15+15"
+  },
+  "puzzle": {
+    "id": "N5nr0",
+    "rating": 1804,
+    "plays": 89042,
+    "solution": ["f6e5", "f4e5", "e8e5"],
+    "themes": ["middlegame", "advantage", "short"],
+    "fen": "r2qr1k1/pp1n1ppp/3n1b2/2P1N3/5B2/2N5/PPP1Q1PP/R4RK1 b - - 0 1",
+    "lastMove": "d4c5",
+    "initialPly": 26
+  }
+}
